@@ -15,7 +15,7 @@ A simple, do-it-yourself Bezel Free Kit Mount template. Just add lenticular film
 <br/>
 
 ## DIY Bezel Free Kit
-I found myself with a broken TV and after learning about the Lenticular film inside of it, I decided that I needed to make myself a Bezel Free Kit for my triples. Unfortunatley, I do not have a 3D printer nor would I bother accessing one. I tried to find alternative options to the ASUS RIOG Bezel Free Kit mounts, but still was not really happy with the avaialble options. So, I did what I like to do the most... I got creative.
+I found myself with a broken TV and after learning about the Lenticular film inside of it, I decided that I needed to make myself a Bezel Free Kit for my triples. Unfortunatley, I do not have a 3D printer nor would I bother accessing one (yet). I tried to find alternative options to the ASUS RIOG Bezel Free Kit mounts, but still was not really happy with the avaialble options. So, I did what I like to do the most... I got creative.
 
 I had some foamcore board laying around (yeah, I make things), and if you've ever used it before, you'll know how easy it is to cut but also how rigid it is. So, this was my first go-to material. And it worked. I later tweaked the design and added two layers for extra rigidity. 
 
@@ -27,14 +27,14 @@ This is a DIY project, and as such you will need to source the materials yoursel
 
 ![Ingredients](images/ingredients.png)
 
-The star of the project is the Lenticular film which can be found in any old LED TV. Instructions on how to extract it [can be found on Youtube](https://www.youtube.com/results?search_query=diy+bezel+free+kit). When youn have it, you need to cut it length-wise into 60mm strips. You will need only two, so consider giving the rest to a friend if needed.
+The star of the project is the Lenticular film which can be found in any old LED TV. Instructions on how to extract it [can be found on Youtube](https://www.youtube.com/results?search_query=diy+bezel+free+kit). When youn have it, you need to cut it length-wise into 60mm strips. You will need only two, so consider giving the rest to a friend if needed. 
 
 Fortunately, all of the other items required are easily found in any arts & crafts store. For this project, you will need:
 
 * 2x A4 sized 5mm Foamcore board (get it in black if you can)
 * 2x 51mm Foldback Clips (or the largest you can find)
-* Rubber bands
-* Glue + Tape to hold everything together
+* 2x 100cm Elastic Shoe Lace ([example](https://amzn.eu/d/8cFteED))
+* Super Glue to hold everything together
 
 ## The Template
 Download the PDF file and print it at 100% size. It is made to fit an **A4 size** page, so make sure you select the right paper size. Each page is good for a single side mount, so unless you've got a really weird setup, you will need to print out two sheets.
