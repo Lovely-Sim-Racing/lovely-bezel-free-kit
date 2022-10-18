@@ -46,3 +46,14 @@ Download the PDF file and print it at 100% size. It is made to fit an **A4 size*
 Once you've got all the pieces cut and ready, all you need to do is follow the below assmbly instructions. Use one A4 template per side.
 
 ![Mount Assembly](images/mount-assembly.png)
+
+
+<br/><br/>
+
+---
+
+<br/>
+
+![cc-by-nc-sa](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-nc-sa.svg)
+
+This work is licensed under [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](http://creativecommons.org/licenses/by-nc-sa/4.0/)
