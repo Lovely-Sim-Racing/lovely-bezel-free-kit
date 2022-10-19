@@ -16,7 +16,7 @@ A simple, do-it-yourself Bezel Free Kit Mount template. Just add lenticular film
 
 <br/>
 
-## DIY Bezel Free Kit
+## DIY Bezel Free Kit 
 I found myself with a broken TV and after learning about the Lenticular film inside of it, I decided that I needed to make myself a Bezel Free Kit for my triples. Unfortunatley, I do not have a 3D printer nor would I bother accessing one (yet). I tried to find alternative options to the ASUS RIOG Bezel Free Kit mounts, but still was not really happy with the avaialble options. So, I did what I like to do the most... I got creative.
 
 I had some foamcore board laying around (yeah, I make things), and if you've ever used it before, you'll know how easy it is to cut but also how rigid it is. So, this was my first go-to material. And it worked. I later tweaked the design and added two layers for extra rigidity. 
