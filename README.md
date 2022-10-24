@@ -49,6 +49,8 @@ Once you've got all the pieces cut and ready, all you need to do is follow the b
 
 ![Mount Assembly](images/mount-assembly.png)
 
+## Tip for Perfect Fitting
+If your monitor has a lip, you should add an extra strip of Foamcore behind the Lenticular Film, of equal thickness to the lip, on the oppossite end of the mount, to keep it parallel to the screen.
 
 <br/><br/>
 
