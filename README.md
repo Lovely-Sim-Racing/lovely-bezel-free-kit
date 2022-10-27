@@ -14,7 +14,17 @@ A simple, do-it-yourself Bezel Free Kit Mount template. Just add lenticular film
 
 ### You may also consider [buying me a coffee](http://j76.me/BuyMeCoffee) :coffee:
 
+#### Check out my other projects: [**Lovely SimHub Dashboard**](http://j76.me/LSRDash) & [**Lovely Stream Deck Icons**](http://j76.me/LSRIcons)
+
+---
+
 <br/>
+<h4 align="center">
+<a href="https://youtu.be/_XAIlmhVY0s">
+<img src="./images/youtube-cover.png" /><br/>
+Watch the introductory & how-to video
+</a>
+</h4> 
 
 ## DIY Bezel Free Kit 
 I found myself with a broken TV and after learning about the Lenticular film inside of it, I decided that I needed to make myself a Bezel Free Kit for my triples. Unfortunatley, I do not have a 3D printer nor would I bother accessing one (yet). I tried to find alternative options to the ASUS RIOG Bezel Free Kit mounts, but still was not really happy with the avaialble options. So, I did what I like to do the most... I got creative.
