@@ -5,7 +5,7 @@
 <h1 align="center">Lovely Bezel Free Kit</h1>
 
 <p align="center">
-A simple, do-it-yourself Bezel Free Kit Mount template. Just add lenticular films.
+A simple, do-it-yourself Bezel Free Kit Mount template. <em>Just add lenticular films.</em>
 </p>
 
 <br/>
