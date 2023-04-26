@@ -10,19 +10,22 @@ A simple, do-it-yourself Bezel Free Kit Mount template. <em>Just add lenticular 
 
 <br/>
 
-### 🔌 If you like this project, please consider subscribing to my Youtube channel [Lovely Sim Racing](http://j76.me/LSR), where I stream as often as I can. You'll even see this Bezel Free Kit in action.
+### 🔌 If you like this dashboard & overlay, please consider subscribing to my Youtube channel [Lovely Sim Racing](http://j76.me/LSR), where I stream as often as I can. You'll even see them both in action.
 
-### You may also consider [buying me a coffee](http://j76.me/BuyMeCoffee) :coffee:
+### Please consider [buying me a coffee](http://j76.me/BuyMeCoffee) :coffee: or snagging some [Lovely Merch](http://j76.me/LSRStore) 
 
-#### Check out my other projects: [**Lovely SimHub Dashboard**](http://j76.me/LSRDash) & [**Lovely Stream Deck Icons**](http://j76.me/LSRIcons)
+#### Check out my other projects:
+* [**Lovely Simhub Dashboard**](http://j76.me/LSRDash)
+* [**Lovely Stream Deck Icons**](http://j76.me/LSRIcons)
+* [**Lovely Sim Racing Liveries**](http://j76.me/LSRLivery)
 
 ---
 
 <br/>
 <h4 align="center">
-<a href="https://youtu.be/_XAIlmhVY0s">
-<img src="./images/youtube-cover.png" /><br/>
-Watch the introductory & how-to video
+<a href="https://youtu.be/8hztdW_aDdY">
+<img src="images/lovely-bezel-free-cover.jpg" alt="The Lovely Bezel Free kit in Action" /><br/>
+The Lovely Bezel Free kit in Action
 </a>
 </h4> 
 
