@@ -65,7 +65,7 @@ Once you've got all the pieces cut and ready, all you need to do is follow the b
 ## Tip for Perfect Fitting
 :bulb: If your monitor has a lip, you can cut out a bit on either side of the fims. The idea is to get the film to sit flat on the screen. 
 
-**Once fitted, adjust the top and bottom mounts by moving them left or right, until you find the sweet spot. **
+**Once fitted, adjust the top and bottom mounts by moving them left or right, until you find the sweet spot.**
 
 <br/><br/>
 
