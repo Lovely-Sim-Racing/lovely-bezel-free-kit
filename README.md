@@ -22,6 +22,14 @@ A simple, do-it-yourself Bezel Free Kit Mount template. <em>Just add lenticular 
 ---
 
 <br/>
+
+<div align="center">
+<p><strong><em>JOIN the Lovely Discord Server</em></strong><br/>
+Join the Discord Server for more Lovely Projects.<br/>
+👉 <a href="http://j76.me/LSRDiscord">Discord Server</a></p>
+</div>
+
+<br/>
 <h4 align="center">
 <a href="https://youtu.be/8hztdW_aDdY">
 <img src="images/lovely-bezel-free-cover.jpg" alt="The Lovely Bezel Free kit in Action" /><br/>
