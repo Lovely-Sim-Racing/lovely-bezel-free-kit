@@ -54,10 +54,10 @@ The star of the project is the Lenticular film which can be found in any old LED
 
 Fortunately, all of the other items required are easily found in any arts & crafts store. For this project, you will need:
 
-* 2x A4 sized 5mm Foamcore board (get it in black if you can)
-* 2x 51mm Foldback Clips (or the largest you can find)
-* 2x 100cm Elastic Shoe Lace ([example](https://amzn.eu/d/8cFteED))
-* Super Glue to hold everything together
+* 2x A4 sized 5mm Foamcore board ([Get it on Amazon](https://www.amazon.de/-/en/Cathedral-A4-Foam-Board-Black/dp/B00BZ1VREG/ref=sr_1_1?crid=2V4NTFSX9BVYM&amp;keywords=schaumkern%252B5%252Bmm%252Ba4&amp;qid=1682930947&amp;sprefix=foamcore%252B5mm%252Ba%252Caps%252C115&amp;sr=8-1&amp;th=1&_encoding=UTF8&tag=lovelysimraci-21&linkCode=ur2&linkId=fb7b8388eb7d9eb4b6b7d215c46c81fd&camp=1638&creative=6742))
+* 2x 51mm Foldback Clips (or the largest you can find) ([Get it on Amazon](https://www.amazon.de/-/en/D-RECT-Foldback-Multi-Purpose-Writing-Supplies/dp/B07VQJ33ML/ref=sr_1_7?crid=2A8FMAP01V8AC&amp;keywords=foldback%252Bclips%252B51%252Bmm&amp;qid=1682930315&amp;sprefix=foldback%252Bclips%252B51mm%252Caps%252C107&amp;sr=8-7&amp;th=1&_encoding=UTF8&tag=lovelysimraci-21&linkCode=ur2&linkId=fcd9ba18fde7b983a2eb46522879b562&camp=1638&creative=6742))
+* 2x 100cm Elastic Shoe Lace ([Get it on Amazon](https://www.amazon.de/dp/B09KPJH188?ref_=cm_sw_r_cp_ud_dp_1ZCY86WZX8D1SN19WG68&_encoding=UTF8&tag=lovelysimraci-21&linkCode=ur2&linkId=577eb346b6609ddcc447dc004cbc6350&camp=1638&creative=6742))
+* Super Glue to hold everything together ([Get it on Amazon](https://www.amazon.de/Super-Liquid-Minis-Original-Sealed/dp/B06WWB38CW/ref=sr_1_3_sspa?crid=19TFJLCQ0KX81&amp;keywords=superkleber&amp;qid=1682931052&amp;sprefix=super%252Bglue%252Caps%252C158&amp;sr=8-3-spons&amp;sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&amp;th=1&_encoding=UTF8&tag=lovelysimraci-21&linkCode=ur2&linkId=80a2ad0b6f7d158441d53f00dabc0604&camp=1638&creative=6742))
 
 ## The Template
 Download the PDF file and print it at 100% size. It is made to fit an **A4 size** page, so make sure you select the right paper size. Each page is good for a single side mount, so unless you've got a really weird setup, you will need to print out two sheets.
@@ -78,6 +78,11 @@ Once you've got all the pieces cut and ready, all you need to do is follow the b
 <br/><br/>
 
 ---
+
+<br/>
+
+####Disclaimer
+The above document contains affiliate links, which I get a commision from every sale. Consider supporting this work by using those links.
 
 <br/>
 
